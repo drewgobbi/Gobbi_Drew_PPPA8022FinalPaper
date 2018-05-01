@@ -1,4 +1,4 @@
-# Gobbi_Drew_PPPA8022FinalPaper
+# Replication of Turner and Blagg, "Short-Term Effects of the Kansas Income Tax Cuts on Employment Growth"
 ## Purpose
 This repository holds my code and final paper for Econometrics and Policy Research II as part of my graduate studies at GWU.
 In it, I attempt to replicate the findings of a 2017 study originally published in *Public Finance Review* by
